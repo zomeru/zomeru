@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h1>Meow World!</h1>
-<img src="https://github.com/zomeru/zomeru/blob/main/pussycat.jpg?raw=true" alt="Pussycat" />
+<img src="https://github.com/zomeru/zomeru/blob/main/pussycat.jpg?raw=true" alt="Pussycat" width="100%" height="auto" />
