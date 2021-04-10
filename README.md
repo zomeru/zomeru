@@ -1,6 +1,6 @@
 Hello there.
 
-![Alt text](https://i.imgur.com/DQ853wX.jpg?raw=true "doggiee")
+![Alt text](https://i.imgur.com/DQ853wX.jpg?raw=true "Pussycat")
 
 <!--
 **zomeru/zomeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
