@@ -1,6 +1,6 @@
 <h1 align="center">Meow World! I'm <a href="https://zomergregorio.live" targer="_blank">Zomer Gregoro</a></h1>
 
--A college student and an aspiring Full Stack Engineer
+- A college student and an aspiring Full Stack Engineer
 - 🌱 I’m currently learning **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
