@@ -3,7 +3,7 @@
 </div>
 
 
-- 🌐 My website: <a href="https://princecaarlo.tech/" target="_blank">Zomer Gregorio</a>
+- 🌐 My website: <a href="https://zomergregorio.live/" target="_blank">Zomer Gregorio</a>
 - 🌱 I’m currently learning **MERN Stack**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
