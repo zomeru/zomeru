@@ -9,9 +9,9 @@
 
 #### **Connect with me:**
 
-[<img alt="zomerusama | Instagram" height="30px" src="./assets/instagram.svg" />][instagram]
-<br />
-[<img alt="zomeru_sama | Twitter" height="30px" src="./assets/twitter.svg" />][twitter]
+<p>Instagram: <a href="https://instagram.com/zomerusama/" target="_blank">@zomerusama</a></p>
+<p>Twitter: <a href="https://twitter.com/zomeru_sama/" target="_blank">@zomeru_sama</a></p>
+<p>Facebook: <a href="https://facebook.com/Zomeru/" target="_blank">@Zomeru</a></p>
 
 ---
 <br />
