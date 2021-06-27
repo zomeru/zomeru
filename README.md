@@ -1,3 +1,35 @@
+<div align="center">
+   <h2>Hi! I'm Zomer, a colleg student and Full Stack Developer.</h2>
+</div>
+
+
+- 🌐 My website: <a href="https://princecaarlo.tech/" target="_blank">Zomer Gregorio</a>
+- 🌱 I’m currently learning **MERN Stack**
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+#### **Connect with me:**
+
+[<img alt="zomerusama | Instagram" height="30px" src="./assets/instagram.svg" />][instagram]
+<br />
+[<img alt="zomeru_sama | Twitter" height="30px" src="./assets/twitter.svg" />][twitter]
+
+---
+<br />
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=zomeru&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zomeru&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF" />
+</div>
+
+<div align="center">  
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zomeru&layout=compact&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+</div>
+
+[twitter]: https://twitter.com/zomeru_sama
+[youtube]: https://www.youtube.com/channel/UCEGduPY5pLYkW5tZiC6QtXw
+[instagram]: https://www.instagram.com/zomerusama/
+
+
+<!-- 
 <h1 align="center">Meow World! I'm <a href="https://zomergregorio.live" targer="_blank">Zomer Gregoro</a></h1>
 
 - A college student and an aspiring Full Stack Engineer
@@ -13,7 +45,7 @@
 
 </p>
 
-  
+ 
   <img src="https://raw.githubusercontent.com/zomeru/zomeru/main/CatOnWork.png" alt="Best cat in the entire universe!" />
-  
+-->
 
