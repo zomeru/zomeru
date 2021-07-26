@@ -73,8 +73,8 @@
 </p>
 
 <!-- Database-->
-<h3 align="right">Databases:</h3>
-<p align="right">
+<h3 align="left">Databases:</h3>
+<p align="left">
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
@@ -90,8 +90,8 @@
 </p>
 
 <!--SSG-->
-<h3 align="right">Static Site Generators:</h3>
-<p align="right">
+<h3 align="left">Static Site Generators:</h3>
+<p align="left">
     <a href="https://www.gatsbyjs.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
     </a>
@@ -101,8 +101,8 @@
 </p>
 
 <!-- Other -->
-<h3 align="right">Other:</h3>
-<p align="right">
+<h3 align="left">Other:</h3>
+<p align="left">
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
