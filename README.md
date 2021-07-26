@@ -18,7 +18,8 @@
 <a href="https://instagram.com/zomerusama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zomerusama" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Programming Languages:</h4>
+<!-- Front end -->
+<h4 align="left">Tech Stack:</h4>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
@@ -26,14 +27,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
-    </a>
-</p>
-
-<!-- Front end -->
-<h4 align="left">Tech Stack:</h4>
-<p align="left">
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
     </a>
