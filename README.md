@@ -45,7 +45,7 @@
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30" />
     </a>
-    <a href="https://webpack.js.org" target="_blank">
+<!--     <a href="https://webpack.js.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30" />
     </a> - <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" />
@@ -68,7 +68,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" />
     </a> - <a href="https://www.gatsbyjs.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30" />
-    </a>
+    </a> -->
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30" />
     </a>
