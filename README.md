@@ -12,7 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+   <a href="https://instagram.com/zomerusama">
+      <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+   </a>
 </p>
 
 <!-- Front end -->
