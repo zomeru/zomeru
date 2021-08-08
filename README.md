@@ -13,7 +13,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://instagram.com/zomerusama">
-      <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/zomerusama-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+   </a>
+   <a href="https://www.tiktok.com/@zomeru_sama">
+      <img src="https://img.shields.io/badge/zomeru_sama-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="25" />
+   </a>
+   <a href="https://twitter.com/zomeru_sama">
+      <img src="https://img.shields.io/badge/zomeru_sama-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25" />
+   </a>
+   <a href="https://linkedin.com/in/zomergregorio">
+      <img src="https://img.shields.io/badge/zomergregorio-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+   </a>
+   <a href="https://facebook.com/Zomeru">
+      <img src="https://img.shields.io/badge/Zomeru-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25" />
    </a>
 </p>
 
