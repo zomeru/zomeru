@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zomer Gregorio</h1>
-<p align="center">A highly motivated, passionate, and self-taught Web Developer.</p>
+<p align="center">A Philomath, highly motivated, passionate, and self-taught Web Developer.</p>
 <p align="center">A college student, currently pursuing a bachelors degree in Information Technology (3rd year).</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zomeru&label=Profile%20views&color=0e75b6&style=flat" alt="zomeru" /> </p>
