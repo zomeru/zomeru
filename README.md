@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zomeru&label=Profile%20views&color=0e75b6&style=flat" alt="zomeru" /> </p>
 
 
-- 🌐💻 My portfolio: [https://zomeru.cf](https://zomeru.cf)
+- 💻 My portfolio: [https://zomeru.cf](https://zomeru.cf)
 - 📎 My URL Shortener: [https://zomy.ml](https://zomy.ml)
 - 📫 How to reach me **zomergregorio@gmail.com**
 - 🥅 2021 Goals: Contribute more to Open Source projects
