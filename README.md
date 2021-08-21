@@ -1,8 +1,8 @@
-<h5 align="center">Hi there. I'm Zomer, a student, Philomath, highly motivated, passionate, and self-taught Web Developer. I'm currently pursuing a bachelors degree in Information Technology (3rd year).</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zomeru&label=Profile%20views&color=0e75b6&style=flat" alt="zomeru" /> </p>
+<h3 align="center">Hi there. I'm Zomer, a student, Philomath, highly motivated, passionate, and self-taught Web Developer. I'm currently pursuing a bachelors degree in Information Technology (3rd year).</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zomeru&label=Profile%20views&color=0e75b6&style=flat" alt="zomeru" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
    <a href="https://instagram.com/zomerusama">
       <img src="https://img.shields.io/badge/zomerusama-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
    </a>
