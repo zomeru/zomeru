@@ -20,7 +20,6 @@
    </a>
 </p>
 
-<!-- Front end -->
 <h4 align="center">Languages, Frameworks, and Tools:</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  height="25"/>
