@@ -52,7 +52,7 @@
 
 </div>
 
-[![zomeru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zomeru)](https://github.com/anuraghazra/github-readme-stats)
+[![zomeru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zomeru&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
