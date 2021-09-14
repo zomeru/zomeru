@@ -1,4 +1,4 @@
-<h3 align="center">Hi there. I'm Zomer, a college student, Philomath, highly motivated, passionate, and self-taught Full-Stack Web Developer. I'm currently pursuing a bachelors degree in Information Technology (3rd year).</h3>
+<h3 align="center">Hi there. I'm Zomer, a college student, Philomath, highly motivated, passionate, and self-taught Full Stack Web Developer. I'm currently pursuing a bachelors degree in Information Technology (3rd year).</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zomeru&label=Profile%20views&color=0e75b6&style=flat" alt="zomeru" /> </p>
 
 <h3 align="center">Connect with me:</h3>
