@@ -1,6 +1,8 @@
 <h3 align="center">Hi there. I'm Zomer, a college student and full-time Full Stack Software Engineer. I'm currently pursuing a bachelors degree in Information Technology (3rd year).</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zomeru&label=Profile%20views&color=0e75b6&style=flat" alt="zomeru" /> </p>
 
+<!--
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
    <a href="https://instagram.com/zomerusama">
@@ -20,6 +22,8 @@
    </a>
 </p>
 
+
+
 <h4 align="center">Languages, Frameworks, and Tools:</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  height="25"/>
@@ -30,7 +34,7 @@
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)"  height="25"/>
    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  height="25"/>
-<!--    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"  height="25"/> -->
+   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"  height="25"/>
    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  height="25"/>
@@ -39,6 +43,8 @@
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
 
 </p>
+
+ -->
    
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=zomeru&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
