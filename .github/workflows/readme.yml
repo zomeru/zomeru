@@ -12,11 +12,11 @@ on:
 
 jobs:
   update-readme:
-    name: Profile Readme Dev Stats
+    name: Zomeru Readme Stats
     runs-on: ubuntu-latest
     steps:
       #- uses: anmol098/waka-readme-stats@master
-      - uses: nick22985/Dev-Stats@V0.0.4
+      - uses: zomeru/Dev-Stats@V0.0.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
