@@ -55,8 +55,7 @@
    <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=zomeru&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
  </div> -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/zomeru/zomeru/blob/output/github-contribution-grid-snake-dark.svg">
@@ -66,4 +65,5 @@
 [![zomeru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zomeru&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
