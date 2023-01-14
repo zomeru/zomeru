@@ -1,4 +1,4 @@
-name: Waka Readme
+name: WakaTime Coding Statistics
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       #- uses: anmol098/waka-readme-stats@master
-      - uses: nick22985/Dev-Stats@master
+      - uses: tariksahni/coding-stats-wakatime@v1.0.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
