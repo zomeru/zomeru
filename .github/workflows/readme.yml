@@ -2,7 +2,7 @@ name: WakaTime Coding Statistics
 
 on:
   schedule:
-    - cron: '30 21 * * *'
+    - cron: "35 21 * * 1-5"
     
   workflow_dispatch:
   
