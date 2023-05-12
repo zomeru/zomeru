@@ -15,16 +15,5 @@
 
 <!-- c%23 -->
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Bash                     19 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
+<!--TEST_START_SECTION:waka-->
+<!--TEST_END_SECTION:waka-->
